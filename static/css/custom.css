@@ -1,0 +1,45 @@
+.divider {
+    height: 1px;
+    margin: 9px 0;
+    overflow: hidden;
+    background-color: #e5e5e5;
+}
+
+
+#nprogress,
+#nprogress .bar {
+    top: 50px;
+    position: absolute;
+    width: 100%;
+}
+
+
+
+ul,ol{
+    padding-left: 15px;
+}
+
+
+.action-btn {
+    margin: 0 5px;
+}
+
+.v--modal-overlay {
+    background: rgba(0, 0, 0, 0.5) !important;
+    z-index: 1030 !important;
+}
+
+
+img{
+    max-width: 100%;
+}
+
+.modal-lg{
+    margin: 0;
+    width: 100%;
+}
+
+
+.auth .content-wrapper{
+    margin-left: 0;
+}
